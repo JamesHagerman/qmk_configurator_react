@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.1.0",
+    "eslint-plugin-react": "^7.10.0",
+    "gh-pages": "^1.2.0",
     "lodash": "4.17.10",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
